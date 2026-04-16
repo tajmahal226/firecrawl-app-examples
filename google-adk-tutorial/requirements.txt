@@ -533,9 +533,9 @@ langchain-core==0.3.56 \
 langchain-text-splitters==0.3.8 \
     --hash=sha256:116d4b9f2a22dda357d0b79e30acf005c5518177971c66a9f1ab0edfdb0f912e \
     --hash=sha256:e75cc0f4ae58dcf07d9f18776400cf8ade27fadd4ff6d264df6278bb302f6f02
-langsmith==0.3.39 \
-    --hash=sha256:0c2af42e943e112bd0a1bd7452922141945b71f08df32cc5d6faa637100bc5e3 \
-    --hash=sha256:1624a70efe1c9378ed0802618e9f7cc14e45d50ec4a9b3af45137fa27ad95690
+langsmith==0.7.31 \
+    --hash=sha256:0291d49203f6e80dda011af1afda61eb0595a4d697adb684590a8805e1d61fb6 \
+    --hash=sha256:331ee4f7c26bb5be4022b9859b7d7b122cbf8c9d01d9f530114c1914b0349ffb
 litellm==1.67.5 \
     --hash=sha256:a9c73feed05aba33b3f2879658f57bb3480b43404ae693ebc827f1c157affde5 \
     --hash=sha256:bd3329731a36200539293521d312adf4f05fc4a6312a84baff2ce5a8b1507a43
